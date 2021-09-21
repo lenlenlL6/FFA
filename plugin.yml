@@ -1,0 +1,9 @@
+name: Ffa
+main: ffa\Main
+author: pmmdst
+api: 3.0.0
+version: 1.0
+
+commands:
+ ffa:
+  description: Run Ffa
